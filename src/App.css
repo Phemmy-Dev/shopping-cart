@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: rgb(227, 225, 225); */
+
+}
+.shopping__cart__cont {
+  background-color: rgb(246, 246, 246);
+}
