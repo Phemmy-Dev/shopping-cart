@@ -79,7 +79,7 @@ function App() {
               <h1 className="text-2xl font-bold">Hamburger</h1>
               <div className="price font-bold text-2xl"> ${(quantityB * basePriceB).toFixed(2)}</div>
               </div>
-              <p className="text-sm">Lorem ipsum dolor sit amet consectetur <br />adipisicing  elit. Quisquam, voluptatem.</p>
+              <p className="text-sm">buns ipsum dolor sit amet consectetur <br />adipisicing  elit. Quisquam, voluptatem.</p>
               <div className="button__ctrl mt-5 flex items-center justify-between">
                 <div className="number__change__ctrl flex justify-center items-center">
                   <select name="" id="" value={quantityB} onChange={handleChange} className='bg-black text-white px-3 py-1 rounded-full flex justify-center items-center text-center'>
